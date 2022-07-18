@@ -12,4 +12,4 @@ This notebook shows how to work witha Pyspark and how to use the following topic
 * Grouping data
 * Joinning Dataframes
 
-See [Spark_Examples.ipybn](Spark_Example.ipynb) notebook
+See Spark_Example.ipynb notebook
